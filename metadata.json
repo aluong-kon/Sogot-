@@ -1,0 +1,6 @@
+{
+  "name": "SOGOT 🇸🇸 - Traditional South Sudanese Stick Game",
+  "description": "An authentic 3D recreation of Sogot, the beloved traditional South Sudanese childhood stick game featuring the call-and-response ritual, realistic physics, and local multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
